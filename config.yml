@@ -1,0 +1,6 @@
+name: "drupal-8-box"
+box: "ubuntu/bionic64"
+memory: "2048"
+cpus: 2
+ip: "192.168.33.15"
+release: "8.7.3"
